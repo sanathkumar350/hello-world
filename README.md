@@ -1,2 +1,3 @@
 # hello-world
-getting started with git and it's good to learn something new.
+thinking about now
+my name is sanath and i am on the process of learning git 
